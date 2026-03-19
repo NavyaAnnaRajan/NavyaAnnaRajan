@@ -1,6 +1,6 @@
 # Hi, I'm Navya 👋
 
-### 🚀 Product Manager | AI x SaaS | 0→1 Builder | Growth
+### 🚀 Product Manager | AI SaaS | 0→1 Builder | Growth
 
 I build and scale products that solve real user problems — combining **AI, growth experimentation, and strong product thinking** to deliver measurable business impact.
 
@@ -88,5 +88,5 @@ From launching 0→1 platforms to optimizing high-scale systems, I focus on **sh
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: (add your link)
+- 💼 LinkedIn:https://www.linkedin.com/in/navya-anna-rajan
 - 📧 Email: rnavyaa1699@gmail.com
