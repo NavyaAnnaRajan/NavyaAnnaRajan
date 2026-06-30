@@ -126,50 +126,6 @@ I regularly build small AI experiments to explore how Generative AI can improve 
 
 ---
 
-# 🛠️ Tech & AI Stack
-
-### 🤖 AI
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Claude-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gemini-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI_Agents-red?style=flat-square"/>
-</p>
-
-### 📦 Product
-
-<p>
-<img src="https://img.shields.io/badge/Figma-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Notion-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Jira-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Balsamiq-lightgrey?style=flat-square"/>
-</p>
-
-### 📊 Analytics
-
-<p>
-<img src="https://img.shields.io/badge/GA4-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mixpanel-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Amplitude-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-grey?style=flat-square"/>
-<img src="https://img.shields.io/badge/VWO-green?style=flat-square"/>
-</p>
-
-### 💻 Development
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square"/>
-</p>
-
-
-
 # 🛠️ AI & Product Stack
 
 ### 🤖 AI & LLMs
