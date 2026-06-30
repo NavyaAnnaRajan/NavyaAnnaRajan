@@ -168,62 +168,6 @@ I regularly build small AI experiments to explore how Generative AI can improve 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square"/>
 </p>
 
----
-
-# 📦 Featured AI Projects
-
-| Repository | Description |
-|------------|-------------|
-| 🎙️ AI Voice Recruiter | Conversational AI recruitment platform |
-| 💰 AI Conversational Wealth Coach | AI-first investing experience |
-| 📄 Resume Copilot | AI resume assistant |
-| 🤖 AI Product Lab | AI experiments & product explorations |
-
----
-
-# 🌱 Currently Learning
-
-- 🎤 Voice AI
-- 🤖 AI Agents
-- 🔗 MCP
-- 📚 RAG Systems
-- 🧠 AI Evaluation
-- ⚡ Enterprise AI Workflows
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavyaAnnaRajan&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaAnnaRajan&layout=compact"/>
-
-</p>
-
----
-
-# 📫 Connect
-
-<p>
-
-<a href="https://www.linkedin.com/in/navya-anna-rajan">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rnavyaa1699@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-
-
-
-
-
-
 
 
 # 🛠️ AI & Product Stack
@@ -306,4 +250,54 @@ I regularly build small AI experiments to explore how Generative AI can improve 
 <img src="https://img.shields.io/badge/ActiveCampaign-356AE6?style=flat-square"/>
 <img src="https://img.shields.io/badge/REST_APIs-6B7280?style=flat-square"/>
 <img src="https://img.shields.io/badge/Webhooks-0F766E?style=flat-square"/>
+</p>
+
+---
+
+# 📦 Featured AI Projects
+
+| Repository | Description |
+|------------|-------------|
+| 🎙️ AI Voice Recruiter | Conversational AI recruitment platform |
+| 💰 AI Conversational Wealth Coach | AI-first investing experience |
+| 📄 Resume Copilot | AI resume assistant |
+| 🤖 AI Product Lab | AI experiments & product explorations |
+
+---
+
+# 🌱 Currently Learning
+
+- 🎤 Voice AI
+- 🤖 AI Agents
+- 🔗 MCP
+- 📚 RAG Systems
+- 🧠 AI Evaluation
+- ⚡ Enterprise AI Workflows
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavyaAnnaRajan&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaAnnaRajan&layout=compact"/>
+
+</p>
+
+---
+
+# 📫 Connect
+
+<p>
+
+<a href="https://www.linkedin.com/in/navya-anna-rajan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rnavyaa1699@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
