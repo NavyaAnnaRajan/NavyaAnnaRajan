@@ -93,28 +93,6 @@ Product Manager • AI SaaS • 0→1 Builder • Growth
 - Led a cross-functional team of **20 members**
 
 ---
-
-# 🧪 AI Experiments
-
-I regularly build small AI experiments to explore how Generative AI can improve product management, enterprise workflows, and user experiences.
-
-✅ AI Voice Recruiter
-
-✅ AI Conversational Wealth Coach
-
-✅ Resume Copilot
-
-✅ AI Product Intelligence Dashboard
-
-✅ Claude Morning Briefing
-
-✅ GPT Portfolio Assistant
-
-✅ Google Workspace Automations
-
-✅ AI Product Pre-Mortem
-
----
 # 🧪 AI Product Lab
 
 > A collection of AI-powered product prototypes, workflow automations, and product explorations focused on solving real business problems through Generative AI.
