@@ -115,6 +115,35 @@ I regularly build small AI experiments to explore how Generative AI can improve 
 ✅ AI Product Pre-Mortem
 
 ---
+# 🧪 AI Product Lab
+
+> A collection of AI-powered product prototypes, workflow automations, and product explorations focused on solving real business problems through Generative AI.
+
+| 🚀 Project | 🎯 Focus Area | 🛠️ AI / Technologies |
+|------------|--------------|----------------------|
+| 🎙️ **AI Voice Recruiter** | Voice-based candidate screening & interview automation | GPT-4, Voice AI, React, Vercel |
+| 💰 **AI Conversational Wealth Coach** | Conversational investing & financial education | LLMs, Prompt Engineering, Product Strategy |
+| 📄 **Resume Copilot** | AI-assisted resume optimization & ATS improvement | OpenAI, React, TypeScript |
+| 🤖 **AI Product Intelligence Dashboard** | Customer feedback analysis & roadmap insights | Claude Projects, Artifacts, AI Analysis |
+| ☀️ **Claude Morning Briefing** | Daily PM dashboard from Jira, Gmail & Confluence | Claude, MCP, Workspace Integrations |
+| 💬 **Portfolio AI Assistant** | AI chatbot trained to answer recruiter questions | OpenAI API, React, Prompt Engineering |
+| ⚡ **Google Workspace AI Automation** | Google Chat → AI Summary → Google Tasks | Gemini, Google Workspace, Automation |
+| 🧠 **AI Product Pre-Mortem** | AI-assisted product risk analysis & strategy validation | Claude, Structured Prompting |
+| 📊 **Tracky Dashboard** | Live team dashboard synced from Google Sheets | Apps Script, GitHub Pages, AI-assisted Development |
+
+---
+
+### 🌱 Currently Exploring
+
+| 🤖 AI Topics | 🚀 Product Areas |
+|--------------|------------------|
+| AI Agents | AI Product Management |
+| Voice AI | Enterprise SaaS |
+| Prompt Engineering | Product Discovery |
+| RAG Applications | Workflow Automation |
+| MCP | Human-in-the-loop AI |
+| AI Evaluation | Customer Feedback Intelligence |
+| Multi-Agent Systems | Decision Support Systems |
 
 # 💡 Product Principles
 
