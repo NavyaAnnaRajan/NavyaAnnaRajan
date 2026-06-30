@@ -217,3 +217,93 @@ I regularly build small AI experiments to explore how Generative AI can improve 
 </a>
 
 </p>
+
+
+
+
+
+
+
+
+
+# 🛠️ AI & Product Stack
+
+### 🤖 AI & LLMs
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Evaluation-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_Databases-14B8A6?style=flat-square"/>
+</p>
+
+### 🚀 Product Management
+
+<p>
+<img src="https://img.shields.io/badge/Product_Discovery-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Product_Strategy-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Roadmapping-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/User_Research-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prioritization-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRDs-0284C7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agile-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scrum-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stakeholder_Management-65A30D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Go_to_Market-F59E0B?style=flat-square"/>
+</p>
+
+### 🎨 Product Design & Collaboration
+
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Balsamiq-CC0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Miro-FFD02F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira"/>
+</p>
+
+### 📊 Analytics & Experimentation
+
+<p>
+<img src="https://img.shields.io/badge/GA4-E37400?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Amplitude-005AF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/A_B_Testing-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/VWO-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/CRO-DC2626?style=flat-square"/>
+</p>
+
+### ⚙️ Development & AI Prototyping
+
+<p>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman"/>
+</p>
+
+### 🔗 Platforms & Integrations
+
+<p>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square"/>
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square"/>
+<img src="https://img.shields.io/badge/DatoCMS-FF7751?style=flat-square"/>
+<img src="https://img.shields.io/badge/ActiveCampaign-356AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-6B7280?style=flat-square"/>
+<img src="https://img.shields.io/badge/Webhooks-0F766E?style=flat-square"/>
+</p>
