@@ -232,18 +232,6 @@ I regularly build small AI experiments to explore how Generative AI can improve 
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavyaAnnaRajan&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaAnnaRajan&layout=compact"/>
-
-</p>
-
----
-
 # 📫 Connect
 
 <p>
