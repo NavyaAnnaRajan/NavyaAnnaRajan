@@ -133,28 +133,6 @@ I regularly build small AI experiments to explore how Generative AI can improve 
 
 ---
 
-### 🌱 Currently Exploring
-
-| 🤖 AI Topics | 🚀 Product Areas |
-|--------------|------------------|
-| AI Agents | AI Product Management |
-| Voice AI | Enterprise SaaS |
-| Prompt Engineering | Product Discovery |
-| RAG Applications | Workflow Automation |
-| MCP | Human-in-the-loop AI |
-| AI Evaluation | Customer Feedback Intelligence |
-| Multi-Agent Systems | Decision Support Systems |
-
-# 💡 Product Principles
-
-- 🚀 Solve user problems before building features
-- ⚡ Prototype fast and validate early
-- 📊 Measure outcomes, not output
-- 🤖 Use AI to improve decision-making
-- 🧪 Learn continuously through experimentation
-
----
-
 # 🛠️ AI & Product Stack
 
 ### 🤖 AI & LLMs
